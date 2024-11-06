@@ -7,4 +7,8 @@ public struct NewP {
     public func a() {
         
     }
+    
+    public func aa() {
+        
+    }
 }
