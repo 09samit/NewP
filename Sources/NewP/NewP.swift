@@ -16,7 +16,7 @@ public struct NewP {
         
     }
     
-    public func new() {
+    public func new2() {
         
     }
 }
