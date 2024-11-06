@@ -1,5 +1,5 @@
 public struct NewP {
-    public private(set) var text = "Hello, World!"
+    public private(set) var text = "Hello, World! This is new day"
 
     public func b() {
         
