@@ -15,4 +15,8 @@ public struct NewP {
     public func aa() {
         
     }
+    
+    public func new() {
+        
+    }
 }
