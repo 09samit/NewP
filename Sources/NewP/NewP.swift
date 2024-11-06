@@ -7,4 +7,12 @@ public struct NewP {
     
     public init() {
     }
+    
+    public func a() {
+        
+    }
+    
+    public func aa() {
+        
+    }
 }
